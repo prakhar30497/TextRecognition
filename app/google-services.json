@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "859621536348",
+    "firebase_url": "https://textrecognition-cbf76.firebaseio.com",
+    "project_id": "textrecognition-cbf76",
+    "storage_bucket": "textrecognition-cbf76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859621536348:android:498cc768f73b386b",
+        "android_client_info": {
+          "package_name": "in.prakhar.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859621536348-m1aggjq8vgkpc1s4dimsqjpmodr33nov.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "859621536348-m1aggjq8vgkpc1s4dimsqjpmodr33nov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKd1BbzlkklCtkyibRdQpr840DRfIWNl0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
